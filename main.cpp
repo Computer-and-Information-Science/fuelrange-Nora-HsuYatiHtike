@@ -2,7 +2,7 @@
 // Hsu Yati Htike
 
 #include <iostream>
-using namespace std; // Needed so we can use cout, cin, endl
+using namespace std;
 
 int main()
 {
